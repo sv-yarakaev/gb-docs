@@ -1,7 +1,7 @@
 # Chater 1
 ## test periodic
 
-THe some paragraph
+The some paragraph
 
 
 the some code
