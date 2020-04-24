@@ -1,0 +1,9 @@
+root: ./
+
+structure:
+  README.md
+  SUMMARY.md
+  glava-2.md
+  glava-3.md
+  glava-4.md
+
