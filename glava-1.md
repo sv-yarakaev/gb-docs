@@ -1,4 +1,4 @@
-# Chater 1
+# Chapter 1
 ## test periodic
 
 The some paragraph
