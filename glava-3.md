@@ -53,7 +53,7 @@ The pointer has a type, too, by the way. Its type is int. Thus it is an “int p
 int * |     | int
 ------|-----|----
 foo_ptr| ->&foo -> | foo
-      |            | sizeof(int)
+       |           | sizeof(int)
 
 
 
