@@ -6,7 +6,7 @@ description: ch2 descr
 
 #### tags: `empty`
 
-### description
+### description С хабра, статья mail.ru
 
 ## All about structure books
 
